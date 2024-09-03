@@ -1,3 +1,3 @@
 module pointers_errors
 
-go 1.22.5
+go 1.22.6
